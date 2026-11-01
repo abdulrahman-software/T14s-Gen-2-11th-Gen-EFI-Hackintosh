@@ -14,12 +14,16 @@ The following have been tested and are working:
 - Brightness slider
 - Bluetooth
 - Audio
+- Battery percentage and cycles
+- USB C and USB A ports
+- Webcam
 
 ## Known issues
 
 - Sleep and wake do not work reliably.
 - The App Store has glitches.
-
+- Microphone DOES NOT work.
+  
 ## Other macOS versions
 
 Sequoia and Tahoe have not been tested with this EFI. Testing and improvements for both versions are especially welcome.
