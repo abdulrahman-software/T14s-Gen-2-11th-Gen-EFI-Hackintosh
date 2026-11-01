@@ -13,6 +13,7 @@ The following have been tested and are working:
 - Wi-Fi through AirportItlwm
 - Brightness slider
 - Bluetooth
+- Audio
 
 ## Known issues
 
