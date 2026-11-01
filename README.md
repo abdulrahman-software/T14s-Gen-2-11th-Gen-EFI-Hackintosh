@@ -6,6 +6,7 @@ Hardware-specific OpenCore EFI for the Lenovo ThinkPad T14s Gen 2. Big Sur is th
 
 The following have been tested and are working:
 
+- Full Hardware Acceleration (including 3D games)
 - Internal keyboard
 - Trackpad
 - TrackPoint
